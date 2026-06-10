@@ -30,7 +30,17 @@ my daily practice files here!
 - 197. Rising Temperature  
 - 178. Rank Scores
 
-### ⏳ Day 3 — Coming soon...
+### ✅ Day 3 — Conditions & Match Case
+**Python:**
+- if / elif / else
+- Nested if
+- Single Line if (Ternary)
+- Identity Operators (is / is not)
+- Match Case
 
-## 🎯 LeetCode Progress
-- SQL Problems Solved: 27
+**SQL LeetCode:**
+- 180. Consecutive Numbers
+- 185. Department Top Three Salaries
+- 596. Classes More Than 5 Students
+
+### ⏳ Day 4 — Coming soon...
