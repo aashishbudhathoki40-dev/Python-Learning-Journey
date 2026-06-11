@@ -43,4 +43,17 @@ my daily practice files here!
 - 185. Department Top Three Salaries
 - 596. Classes More Than 5 Students
 
-### ⏳ Day 4 — Coming soon...
+### ✅ Day 4 — Lists & List Methods
+**Python:**
+- List Slicing
+- Adding items (append, insert, extend)
+- Removing items (remove, pop, del, clear)
+- List Methods (count, index, reverse, sort)
+- Membership Operator (in / not in)
+
+**SQL LeetCode:**
+- 607. Sales Person
+- 570. Managers with at Least 5 Direct Reports
+- 1084. Sales Analysis III
+
+### ⏳ Day 5 — Coming soon...
