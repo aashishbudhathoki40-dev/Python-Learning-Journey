@@ -56,4 +56,17 @@ my daily practice files here!
 - 570. Managers with at Least 5 Direct Reports
 - 1084. Sales Analysis III
 
-### ⏳ Day 5 — Coming soon...
+### ✅ Day 5 — Dictionaries
+**Python:**
+- Dictionary creation and access
+- get(), keys(), values(), items()
+- update(), pop(), del, clear()
+- Nested Dictionaries
+- Dictionary with Lists
+
+**SQL LeetCode:**
+- 1148. Article Views I
+- 1164. Product Price at a Given Date
+- 1193. Monthly Transactions I
+
+### ⏳ Day 6 — Coming soon...
