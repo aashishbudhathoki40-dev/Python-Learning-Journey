@@ -69,4 +69,19 @@ my daily practice files here!
 - 1164. Product Price at a Given Date
 - 1193. Monthly Transactions I
 
-### ⏳ Day 6 — Coming soon...
+### ✅ Day 6 — Loops & Control Flow
+**Python:**
+- For Loop
+- While Loop
+- range() in For Loop
+- Break and Continue
+- Nested Loops
+- isdigit()
+- List Comprehension
+
+**SQL LeetCode:**
+- 1211. Queries Quality and Percentage
+- 1321. Restaurant Growth
+- 1045. Customers Who Bought All Products
+
+### ⏳ Day 7 — Coming soon...
