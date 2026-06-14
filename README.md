@@ -84,4 +84,17 @@ my daily practice files here!
 - 1321. Restaurant Growth
 - 1045. Customers Who Bought All Products
 
-### ⏳ Day 7 — Coming soon...
+### ✅ Day 7 — Mini Project + Loops
+**Python:**
+- While Loop practice
+- random.randint()
+- Break and Continue
+- Built a Number Guessing Game
+- Scoreboard (+10 / -10 scoring system)
+
+**SQL LeetCode:**
+- 1633. Percentage of Users Attended a Contest
+- 1070. Product Sales Analysis III
+- 1907. Count Salary Categories
+
+### ⏳ Day 8 — Coming soon...
